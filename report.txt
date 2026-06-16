@@ -1,0 +1,7 @@
+CYBERTZ MEDICAL CENTER
+======================
+Total Patients: 7
+Average Age: 32.0
+Fever Cases: 57.1%
+Ward A: 3
+Ward B: 3

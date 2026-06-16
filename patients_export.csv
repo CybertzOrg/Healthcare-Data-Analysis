@@ -1,0 +1,8 @@
+id,name,age,temperature,diagnosis,ward
+1,Thoko,25,36.5,Healthy,A
+2,James,30,39.2,Fever,B
+3,Nonty,22,37.0,Healthy,A
+4,Sipho,45,38.5,Fever,B
+5,Lindiwe,19,36.8,Healthy,A
+6,Thando,55,40.1,Critical,ICU
+7,Grace,28,38.8,Fever,B
